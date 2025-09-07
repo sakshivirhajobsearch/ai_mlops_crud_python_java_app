@@ -1,0 +1,5 @@
+feature1	feature2	target
+2.5	4	10
+1.5	2	5
+3	5	12
+4	6	15
