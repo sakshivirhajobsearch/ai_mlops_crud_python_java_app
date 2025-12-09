@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Python, Java (Maven/Gradle), Flask, Spring Boot, scikit-learn
+- **Detected Technologies:** Java, Machine Learning, Python
 - **GitHub Topics:** None
 
 ---
